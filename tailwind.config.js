@@ -20,15 +20,15 @@ module.exports = {
         }
       },
       fontFamily: {
-        pthin: ['Poppins-Thin', 'sans-serif'],
-        pextralight: ['Poppins-ExtraLight', 'sans-serif'],
-        plight: ['Poppins-Light', 'sans-serif'],
-        pregular: ['Poppins-Regular', 'sans-serif'],
-        pmedium: ['Poppins-Medium', 'sans-serif'],
-        psemibold: ['Poppins-SemiBold', 'sans-serif'],
-        pbold: ['Poppins-Bold', 'sans-serif'],
-        pextrabold: ['Poppins-ExtraBold', 'sans-serif'],
-        pblack: ['Poppins-Black', 'sans-serif']
+        ithin: ['Inter_100Thin', 'sans-serif'],
+        iextralight: ['Inter_200ExtraLight', 'sans-serif'],
+        ilight: ['Inter_300Light', 'sans-serif'],
+        iregular: ['Inter_400Regular', 'sans-serif'],
+        imedium: ['Inter_500Medium', 'sans-serif'],
+        isemibold: ['Inter_600SemiBold', 'sans-serif'],
+        ibold: ['Inter_700Bold', 'sans-serif'],
+        iextrabold: ['Inter_800ExtraBold', 'sans-serif'],
+        iblack: ['Inter_900Black', 'sans-serif']
       }
     }
   },
